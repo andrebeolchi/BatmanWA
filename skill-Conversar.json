@@ -1,0 +1,1231 @@
+{
+  "intents": [
+    {
+      "intent": "acessorios",
+      "examples": [
+        {
+          "text": "o que voce tem de acessórios"
+        },
+        {
+          "text": "o que você usa para combater o crime?"
+        },
+        {
+          "text": "Quais armas você usa?"
+        },
+        {
+          "text": "quais são seus acessórios"
+        },
+        {
+          "text": "quais são seus dispositivos"
+        }
+      ],
+      "description": "Intent para responder sobre armas/trajes/dispositivos"
+    },
+    {
+      "intent": "batman",
+      "examples": [
+        {
+          "text": "Batman é você?"
+        },
+        {
+          "text": "Eu estou falando com o Batman?"
+        },
+        {
+          "text": "eu não acredito que você é o batman"
+        },
+        {
+          "text": "Não acredito que estou falando com o batman"
+        },
+        {
+          "text": "Você é o Batman?"
+        }
+      ],
+      "description": "Intent de pergunta do batman"
+    },
+    {
+      "intent": "briga",
+      "examples": [
+        {
+          "text": "o que o superman fez pra vocês brigarem?"
+        },
+        {
+          "text": "porque vc e o superhomem lutaram?"
+        },
+        {
+          "text": "Porque você brigou com o superman?"
+        },
+        {
+          "text": "porque voce e o superman brigaram?"
+        },
+        {
+          "text": "porque você quis matar o superman?"
+        }
+      ],
+      "description": "Intent sobre a briga do batman vs superman"
+    },
+    {
+      "intent": "cidade",
+      "examples": [
+        {
+          "text": "onde voce fica?"
+        },
+        {
+          "text": "Onde você mora?"
+        },
+        {
+          "text": "Onde voce vive?"
+        },
+        {
+          "text": "vc fica aonde?"
+        },
+        {
+          "text": "voce mora onde?"
+        }
+      ],
+      "description": "Intent para responder onde ele mora"
+    },
+    {
+      "intent": "frases",
+      "examples": [
+        {
+          "text": "fale alguma frase do batman"
+        },
+        {
+          "text": "me diga alguma frase sua famosa"
+        },
+        {
+          "text": "me fale alguma de suas frases"
+        },
+        {
+          "text": "me prova que vc é o batman"
+        },
+        {
+          "text": "se voce é o batman, me prove"
+        }
+      ],
+      "description": "Intent para dizer frases famosas"
+    },
+    {
+      "intent": "origem",
+      "examples": [
+        {
+          "text": "como voce virou um super heroi"
+        },
+        {
+          "text": "de onde voce surgiu?"
+        },
+        {
+          "text": "o que voce faz?"
+        },
+        {
+          "text": "Porque você começou a lutar contra o crime?"
+        },
+        {
+          "text": "porque voce é um vigilante?"
+        },
+        {
+          "text": "porque voce virou um super heroi"
+        },
+        {
+          "text": "qual é a sua origem?"
+        },
+        {
+          "text": "qual motivo de voce lutar contra o crime?"
+        }
+      ],
+      "description": "Intent para responder a origem de Batman"
+    },
+    {
+      "intent": "porque-batman",
+      "examples": [
+        {
+          "text": "porque batman?"
+        },
+        {
+          "text": "porque o nome batman?"
+        },
+        {
+          "text": "Porque você se chama batman?"
+        },
+        {
+          "text": "porque voce usa esse nome?"
+        },
+        {
+          "text": "qual motivo de usar esse nome?"
+        }
+      ],
+      "description": "Intent respondendo o porque do nome batman"
+    },
+    {
+      "intent": "quem-e-vc",
+      "examples": [
+        {
+          "text": "com quem estou falando?"
+        },
+        {
+          "text": "qual é o seu nome"
+        },
+        {
+          "text": "quem é vc"
+        },
+        {
+          "text": "quem é você"
+        }
+      ],
+      "description": "Intent para responder quem o batman é"
+    },
+    {
+      "intent": "quem-faz-parte",
+      "examples": [
+        {
+          "text": "quais heróis participam da liga da justiça?"
+        },
+        {
+          "text": "Qual é a equipe da liga da justiça?"
+        },
+        {
+          "text": "Quem faz parte da liga da justiça?"
+        },
+        {
+          "text": "Quem são os integrantes da liga da justiça?"
+        },
+        {
+          "text": "quem tá dentro da liga da justiça?"
+        }
+      ],
+      "description": "Intent para saber quem faz parte da liga da justiça"
+    },
+    {
+      "intent": "reconhecer-corp",
+      "examples": [
+        {
+          "text": "conte sobre a corporação batman"
+        },
+        {
+          "text": "me fale sobre a corporação batman"
+        },
+        {
+          "text": "o que a corporação batman faz?"
+        },
+        {
+          "text": "o que a Liga das justica faz?"
+        },
+        {
+          "text": "O que é a Corporação Batman?"
+        },
+        {
+          "text": "Pra que serve a corporação batman?"
+        }
+      ],
+      "description": "Intent sobre as corporações"
+    },
+    {
+      "intent": "reconhecer-quem",
+      "examples": [
+        {
+          "text": "fala do superhomem"
+        },
+        {
+          "text": "Gostaria de saber mais sobre o Espantalho"
+        },
+        {
+          "text": "o que o mordomo faz?"
+        },
+        {
+          "text": "o robin faz oque?"
+        },
+        {
+          "text": "quem é a mulher-gato?"
+        },
+        {
+          "text": "quem é o alfred?"
+        },
+        {
+          "text": "Quem é o coringa"
+        },
+        {
+          "text": "quem é o gordon?"
+        },
+        {
+          "text": "quem é o robin?"
+        },
+        {
+          "text": "quem é o superman?"
+        },
+        {
+          "text": "quem são seus amigos?"
+        },
+        {
+          "text": "quem são seus inimigos?"
+        },
+        {
+          "text": "Você pode me falar sobre o robin"
+        }
+      ],
+      "description": "Intent para reconhecer quem é"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "aliados",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Alfred",
+          "synonyms": [
+            "Mordomo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Amigos",
+          "synonyms": [
+            "Aliados",
+            "do bem"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "AquaMan",
+          "synonyms": [
+            "Guardião dos Mares",
+            "Habitantes das profundezas",
+            "Rei de Atlântida",
+            "Rei dos Mares"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Comissário Gordon",
+          "synonyms": [
+            "Gordon"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Flash",
+          "synonyms": [
+            "o homem mais rápido do mundo",
+            "velocista",
+            "velocista escarlate"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mulher-Maravilha",
+          "synonyms": [
+            "Wonder-Woman",
+            "WW"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Robin",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Superhomem",
+          "synonyms": [
+            "Homem de Aço",
+            "Super-Homem",
+            "Super-Man",
+            "SuperMan"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "corporacao",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Corporação Batman",
+          "synonyms": [
+            "Batman Corp.",
+            "Corp. Batman"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Liga da Justiça",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "inimigos",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Coringa",
+          "synonyms": [
+            "Arlequim do Ódio",
+            "O Flagelo de Gotham",
+            "Palhaço do Crime"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Darkseid",
+          "synonyms": [
+            "Darkside",
+            "Lado Negro",
+            "O Tirano"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Espantalho",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Inimigos",
+          "synonyms": [
+            "do mal",
+            "Vilão"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mulher-Gato",
+          "synonyms": [
+            "Mulher gato"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Pinguim",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá, eu sou o Batman!"
+              },
+              {
+                "text": "Quem está tocando o Batsinal?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "context": {},
+      "conditions": "welcome",
+      "dialog_node": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Em outros casos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Faça seus medos terem medo de você!"
+              },
+              {
+                "text": "Nós caímos para aprendermos a nos levantar!"
+              },
+              {
+                "text": "Não é o que sou por dentro, é o que eu faço que me define!"
+              },
+              {
+                "text": "Para superar o medo, você precisa se tornar o medo!"
+              },
+              {
+                "text": "Quando um assassino morre, outro nasce!"
+              },
+              {
+                "text": "A noite é mais sombria um pouco antes do amanhecer!"
+              },
+              {
+                "text": "A loucura é como a gravidade, só precisa de um empurrãozinho!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Em outros casos",
+      "previous_sibling": "node_10_1616256239840",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Alfred",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alfred, meu mordomo, tem formação em medicina de guerra, sendo muito útil quando eu me machuco em combate."
+              },
+              {
+                "text": "a"
+              },
+              {
+                "text": "Eu já falei sobre o Alfred"
+              },
+              {
+                "text": "Já cansei de falar sobre o Crane"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1616873582096",
+      "conditions": "@aliados:Alfred",
+      "dialog_node": "node_10_1616255953454",
+      "previous_sibling": "node_8_1617382164894"
+    },
+    {
+      "type": "standard",
+      "title": "Origem",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Treinei por anos até chegar aqui, sou o maior detetive do mundo, mestre em fugas, disfarces e explosivos, também sou inventor, cientista, acrobata e piloto. Como sou humano sou vulnerável as armas de fogo, então utilizo técnicas que aprendi durante meu treinamento na Liga das Sombras."
+              },
+              {
+                "text": "Comecei a lutar contra o crime para causar medo no submundo de Gotham e para defender os inocentes."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#origem",
+      "dialog_node": "node_10_1616256194742",
+      "previous_sibling": "node_3_1616256173523"
+    },
+    {
+      "type": "standard",
+      "title": "Cidade",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Costumo ficar em Gotham."
+              },
+              {
+                "text": "Normalmente eu fico em Gotham para vigiar e defender a cidade!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#cidade",
+      "dialog_node": "node_10_1616256210842",
+      "previous_sibling": "node_10_1616256194742"
+    },
+    {
+      "type": "standard",
+      "title": "Frases",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Faça seus medos terem medo de você!"
+              },
+              {
+                "text": "Nós caímos para aprendermos a nos levantar!"
+              },
+              {
+                "text": "Não é o que sou por dentro, é o que eu faço que me define."
+              },
+              {
+                "text": "Para superar o medo, você precisa se tornar o medo."
+              },
+              {
+                "text": "Quando um assassino morre, outro nasce!"
+              },
+              {
+                "text": "A noite é mais sombria um pouco antes do amanhecer."
+              },
+              {
+                "text": "A loucura é como a gravidade, só precisa de um empurrãozinho!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#frases",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_10_1616256239840",
+      "previous_sibling": "node_7_1616255857979"
+    },
+    {
+      "type": "standard",
+      "title": "Inimigos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tenho vários inimigos como Coringa, Espantalho, Mulher-Gato, Darkseid e o Pinguim"
+              },
+              {
+                "text": "Já falei deles, pode me perguntar sobre eles"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1616873582096",
+      "conditions": "@inimigos:Inimigos",
+      "dialog_node": "node_10_1617377174167",
+      "previous_sibling": "node_7_1617377141475"
+    },
+    {
+      "type": "standard",
+      "title": "Reconhecer Corporação",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_5_1616255899941"
+      },
+      "conditions": "#reconhecer-corp && @corporacao",
+      "dialog_node": "node_10_1617377843374",
+      "previous_sibling": "node_10_1616256210842"
+    },
+    {
+      "type": "standard",
+      "title": "Reconhecer Aliados/Inimigos",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_5_1616256034565"
+      },
+      "conditions": "#reconhecer-quem && @aliados || #reconhecer-quem && @inimigos",
+      "dialog_node": "node_1_1616873582096",
+      "previous_sibling": "node_10_1617377843374"
+    },
+    {
+      "type": "standard",
+      "title": "Liga da Justiça",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Vi que o mundo precisava de pessoas para defende-la, então juntei um grupo de super-heróis e fiz a liga da justiça."
+              },
+              {
+                "text": "A Liga da justiça tem o intuito de unir heróis para poder defender a terra."
+              },
+              {
+                "text": "Não vou repetir"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1617377843374",
+      "conditions": "@corporacao:(Liga da Justiça)",
+      "dialog_node": "node_1_1617377947822",
+      "previous_sibling": "node_5_1616255899941"
+    },
+    {
+      "type": "standard",
+      "title": "Aquaman",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Arthur Joseph Curry, o rei de atlanta , procurando sempre conciliar o reino dos mares com o reino de nós humanos"
+              },
+              {
+                "text": "Aquaman com seu tridente é um dos seres mais poderosos que eu já vi em toda minha vida"
+              },
+              {
+                "text": "Já falei muito sobre ele"
+              },
+              {
+                "text": "Me pergunte outra coisa"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1616873582096",
+      "conditions": "@aliados:AquaMan",
+      "dialog_node": "node_1_1617381877636",
+      "previous_sibling": "node_5_1617381315925"
+    },
+    {
+      "type": "standard",
+      "title": "Liga da Justiça",
+      "parent": "node_1_1616873582096",
+      "conditions": "#reconhecer-quem && @corporacao:(Liga da Justiça)",
+      "dialog_node": "node_2_1617379160731",
+      "previous_sibling": "node_10_1617377174167"
+    },
+    {
+      "type": "standard",
+      "title": "Armas",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Meu cinto de utilidades tem vários dispositivos, que me ajuda a combater o crime."
+              },
+              {
+                "text": "Prefiro não falar muito sobre meus acessórios para não expor todo meu arsenal!"
+              },
+              {
+                "text": "Tenho um batmóvel, que me ajuda a correr atrás de meus inimigos"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#acessorios",
+      "dialog_node": "node_3_1616256173523",
+      "previous_sibling": "node_5_1616256152043"
+    },
+    {
+      "type": "standard",
+      "title": "Gordon",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Comissário Gordon, meu maior aliado na luta contra o crime, aciona o Bat-sinal sempre que julga a minha ajuda necessária."
+              },
+              {
+                "text": "a"
+              },
+              {
+                "text": "Já cansei de falar sobre o Gordon"
+              },
+              {
+                "text": "Eu já falei sobre o Comissário"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1616873582096",
+      "conditions": "@aliados:(Comissário Gordon)",
+      "dialog_node": "node_4_1616255991100",
+      "previous_sibling": "node_6_1616255974908"
+    },
+    {
+      "type": "standard",
+      "title": "Eu sou o batman",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sim, Eu sou o Batman"
+              },
+              {
+                "text": "Eu sou o Batman"
+              },
+              {
+                "text": "Pode ter certeza que eu sou o Batman"
+              },
+              {
+                "text": "Se você não acredita que eu sou o Batman, me faça uma pergunta"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#batman",
+      "dialog_node": "node_4_1617383789329",
+      "previous_sibling": "node_6_1617386776208"
+    },
+    {
+      "type": "standard",
+      "title": "Corporação Batman",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A Corporação Batman tem como objetivo obter recrutas de todo o mundo para treiná-los em corpo a corpo e mentalmente, para espalharem os nossos ideais."
+              },
+              {
+                "text": "A nossa corporação tem como objetivo recrutar pessoas de todo o mundo para treiná-los em corpo a corpo e mentalmente, para espalharem os nossos ideais."
+              },
+              {
+                "text": "Não quero falar da corporação de novo"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1617377843374",
+      "conditions": "@corporacao:(Corporação Batman)",
+      "dialog_node": "node_5_1616255899941"
+    },
+    {
+      "type": "standard",
+      "title": "Coringa",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Meu pior inimigo é o Coringa, o palhaço do crime, assassino e psicótico."
+              },
+              {
+                "text": "O palhaço do crime, até hoje ainda não consegui descobrir sua identidade"
+              },
+              {
+                "text": "Eu já falei sobre o Coringa"
+              },
+              {
+                "text": "Não quero mais falar sobre ele"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1616873582096",
+      "conditions": "@inimigos:Coringa",
+      "dialog_node": "node_5_1616256034565"
+    },
+    {
+      "type": "standard",
+      "title": "Pinguim",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Um dos meus inimigos é Oswald Chesterfield Cobblepot, mais conhecido como Pinguim. É um amante de aves, um ladrão e mafioso."
+              },
+              {
+                "text": "Cobblepot uma pessoa cheia de raiva e dotado de uma mente criminosa verdadeiramente sem escrúpulos"
+              },
+              {
+                "text": "Eu já falei sobre o Pinguim"
+              },
+              {
+                "text": "Cansei de falar sobre o Cobblepot, me pergunte outra coisa"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1616873582096",
+      "conditions": "@inimigos:Pinguim",
+      "dialog_node": "node_5_1616256075362",
+      "previous_sibling": "node_6_1616256096553"
+    },
+    {
+      "type": "standard",
+      "title": "Porque Batman?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Me chamo Batman, pois quando eu era uma criança tinha medo de morcegos, hoje uso o meu antigo medo para assustar meus inimigos"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#porque-batman",
+      "dialog_node": "node_5_1616256152043",
+      "previous_sibling": "node_4_1617383789329"
+    },
+    {
+      "type": "standard",
+      "title": "Mulher Maravilha",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Princesa Diana, sua origem um pouco confusa, diz ter sido esculpida por barro pela sua mãe, mas veio da ilha das amazonas onde cresceu e aprendeu a ser uma guerreira"
+              },
+              {
+                "text": "Diana sempre teve o espirito de uma guerreira, por isso hoje nos ajuda a proteger a terra com a liga da justiça"
+              },
+              {
+                "text": "Já falei muito sobre ela"
+              },
+              {
+                "text": "Me pergunte outra coisa"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1616873582096",
+      "conditions": "@aliados:Mulher-Maravilha",
+      "dialog_node": "node_5_1617381315925",
+      "previous_sibling": "node_6_1617381224740"
+    },
+    {
+      "type": "standard",
+      "title": "Robin",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sobre o Robin, um menino no qual teve uma infância parecida com a minha, quando o vi não quis que ele se tornasse igual a mim, por isso adotei ele, e o treinei para não se perder da escuridão"
+              },
+              {
+                "text": "a"
+              },
+              {
+                "text": "Já cansei de falar sobre o Robin"
+              },
+              {
+                "text": "Eu já falei sobre o Robin"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1616873582096",
+      "conditions": "@aliados:Robin",
+      "dialog_node": "node_6_1616255974908",
+      "previous_sibling": "node_10_1616255953454"
+    },
+    {
+      "type": "standard",
+      "title": "Espantalho",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Jonathan Crane, mais conhecido como Espantalho é um supervilão, cientista, psiquiatra e professor de psicologia. A especialização de Crane é a natureza do medo e sua marca registrada é o gás do medo, que usa em suas vítimas, para que elas visualizem seu pior medo."
+              },
+              {
+                "text": "a"
+              },
+              {
+                "text": "Eu já falei sobre o Espantalho"
+              },
+              {
+                "text": "Já cansei de falar sobre o Crane"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1616873582096",
+      "conditions": "@inimigos:Espantalho",
+      "dialog_node": "node_6_1616256096553",
+      "previous_sibling": "node_5_1616256034565"
+    },
+    {
+      "type": "standard",
+      "title": "Flash",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Barry allen, mais conhecido como flash, foi atingido por um raio, quando acordou estava com super-velocidade, e decidiu ajudar os outros"
+              },
+              {
+                "text": "Quando era jovem, sua mãe foi morta e seu pai levou a culpa por este crime, desde então decidiu se tornar um cientista forense para mostrar a inocência de seu pai"
+              },
+              {
+                "text": "Já falei muito sobre o Flash"
+              },
+              {
+                "text": "Me pergunte sobre outra coisa"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1616873582096",
+      "conditions": "@aliados:Flash",
+      "dialog_node": "node_6_1617381224740",
+      "previous_sibling": "node_4_1616255991100"
+    },
+    {
+      "type": "standard",
+      "title": "Liga da Justiça",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Quem faz parte da Liga da Justiça é o Flash, Mulher-Maravilha, Superman e Aquaman"
+              },
+              {
+                "text": "Os integrantes são o Flash, Mulher-Maravilha, Superman e Aquaman"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#quem-faz-parte",
+      "dialog_node": "node_6_1617386776208",
+      "previous_sibling": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Quem é você",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu sou a vingança. Eu sou a noite. Eu sou... Batman!"
+              },
+              {
+                "text": "Sou apenas um vigilante noturno. Eu sou... Batman!"
+              },
+              {
+                "text": "Eu sou... Batman!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#quem-e-vc",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_7_1616255857979",
+      "previous_sibling": "node_8_1617379386986"
+    },
+    {
+      "type": "standard",
+      "title": "Mulher-Gato",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Selina Kyle conhecida como Mulher-Gato, uma ladra que não deseja causar mal, apenas roubar riquezas "
+              },
+              {
+                "text": "Prefiro não comentar sobre."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1616873582096",
+      "conditions": "@inimigos:Mulher-Gato",
+      "dialog_node": "node_7_1616258143937",
+      "previous_sibling": "node_5_1616256075362"
+    },
+    {
+      "type": "standard",
+      "title": "Amigos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tenho vários aliados como Alfred, Robin, Gordon, Super-homem, Flash, Aquaman e Mulher Maravilha"
+              },
+              {
+                "text": "Já falei deles, pode me perguntar sobre eles"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1616873582096",
+      "conditions": "@aliados:Amigos",
+      "dialog_node": "node_7_1617377141475",
+      "previous_sibling": "node_7_1617382417283"
+    },
+    {
+      "type": "standard",
+      "title": "Superhomem",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Veio do planeta Krypton antes de ser destruida, caiu em uma casa de fazendeiros no texas, por isso tem valores e costumes de um terraqueo"
+              },
+              {
+                "text": "o Homem de Aço um dos seres mais poderosos, luta pela justiça e igualdade de todos, no inicio tive mal pressentimento sobre ele, mas hoje me ajuda a defender a terra"
+              },
+              {
+                "text": "Já falei muito sobre ele"
+              },
+              {
+                "text": "Chega de falar sobre ele"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1616873582096",
+      "conditions": "@aliados:Superhomem",
+      "dialog_node": "node_7_1617382417283",
+      "previous_sibling": "node_1_1617381877636"
+    },
+    {
+      "type": "standard",
+      "title": "Super Man vs Batman",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Inicialmente vi que a terra estava sendo destruída com este ser que não é daqui, para nós protegermos vi que precisava destruir-lo"
+              },
+              {
+                "text": "Um ser que se considera um deus, para nós humanos eu precisava dar um jeito de nós salvarmos"
+              },
+              {
+                "text": "Toda batalha que ele travava sempre nós humanos que saiamos prejudicados, eu precisava dar um jeito nisto tudo"
+              },
+              {
+                "text": "Já falei muito sobre a nossa briga"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#briga && @aliados:Superhomem",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1617379386986",
+      "previous_sibling": "node_1_1616873582096"
+    },
+    {
+      "type": "standard",
+      "title": "Darkseid",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Um dos vilões mais fortes que eu já vi em toda minha vida, se não o mais forte, quando chegou na terra, foi onde vi que sozinho nunca iria derrotar-lo, por isso decidi realizar a liga da justiça"
+              },
+              {
+                "text": "Já falei sobre ele"
+              },
+              {
+                "text": "Me fale sobre outra coisa"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1616873582096",
+      "conditions": "@inimigos:Darkseid",
+      "dialog_node": "node_8_1617382164894",
+      "previous_sibling": "node_7_1616258143937"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nenhuma das anteriores"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "Conversar",
+  "language": "pt-br",
+  "description": "Skill de Conversar com usuários"
+}
